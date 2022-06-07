@@ -1,0 +1,46 @@
+h1{
+  font: bolder;
+  text-align: center;
+  color: blue;
+}
+body {
+    background-color: darkorchid;
+    background-size: cover;
+    font-style: oblique;
+    color: rgb(100, 0, 100);
+    font-size: 22px;
+  }
+  #LOGO{
+  text-align: center;
+  }
+  #CONTACTO{ 
+    text-align: center;
+    border-right-color: rgb(0, 0, 0);
+    color: black;
+  }
+  #INFO{
+    font-style: unset;
+    font-size: 30px;
+  }
+  #CIERRE{
+    font-size: 15px;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(47, 0, 255);
+  }
+  a, img{
+    display: block;
+  }
+  a{
+    margin: 0px 5px;
+    text-decoration: none;
+    color: rgb(190, 243, 0);
+  }
+  a:hover{
+    color: black;
+  }
+  img{
+    width: 1200px;
+    height: 650px;
+    margin: auto;
+  }
